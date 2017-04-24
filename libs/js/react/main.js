@@ -421,7 +421,7 @@ var TopNavigayionBar = React.createClass({
         	<nav className="navbar navbar-default">
   				<div className="container-fluid">
     				<div className="navbar-header">
-      					<Link to="/" className="navbar-brand">AMRDIARY</Link>
+      					<Link to="/" className="navbar-brand">AmrDiary</Link>
     				</div>
 				    <ul className="nav navbar-nav">
 				      <li><Link to="/">Home</Link></li>
